@@ -1,0 +1,36 @@
+﻿@page "/counter"
+@using Microsoft.AspNetCore.Components
+
+<h1>Counter</h1>
+
+<p>Current count: @currentCount</p>
+
+<button class="btn btn-primary" onclick="@IncrementCount" >Click me</button>
+
+<input type ="number" bind="@increment" />
+
+@*Example: Above Input Written With Lambda*@
+<input type="number" value="@increment" onchange="@((UIChangeEventArgs e) => increment = int.Parse($"{e.Value}"))" />
+
+<input type="text" bind="@somedate" format-value="yyyy-MM-dd" />
+
+<button class="btn btn-success" onclick="@AutoIncrement">Auto Increment</button>
+
+@functions {
+    int currentCount = 0;
+
+    int increment = 1;
+
+    private DateTime somedate = DateTime.Now;
+
+    void IncrementCount()
+    {
+        currentCount += increment;
+    }
+
+    void AutoIncrement()
+    {
+        var timer = new System.Threading.Timer((_) => { IncrementCount(); StateHasChanged(); },null, TimeSpan.FromSeconds(1), TimeSpan.FromSeconds(1));
+    }
+
+}

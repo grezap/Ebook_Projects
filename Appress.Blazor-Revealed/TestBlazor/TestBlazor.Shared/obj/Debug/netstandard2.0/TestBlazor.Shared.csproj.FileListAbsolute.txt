@@ -1,0 +1,9 @@
+C:\_Dev_Repos_\_Github_Repos_\Ebook_Projects\Appress.Blazor-Revealed\TestBlazor\TestBlazor.Shared\bin\Debug\netstandard2.0\TestBlazor.Shared.deps.json
+C:\_Dev_Repos_\_Github_Repos_\Ebook_Projects\Appress.Blazor-Revealed\TestBlazor\TestBlazor.Shared\bin\Debug\netstandard2.0\TestBlazor.Shared.dll
+C:\_Dev_Repos_\_Github_Repos_\Ebook_Projects\Appress.Blazor-Revealed\TestBlazor\TestBlazor.Shared\bin\Debug\netstandard2.0\TestBlazor.Shared.pdb
+C:\_Dev_Repos_\_Github_Repos_\Ebook_Projects\Appress.Blazor-Revealed\TestBlazor\TestBlazor.Shared\obj\Debug\netstandard2.0\TestBlazor.Shared.csprojAssemblyReference.cache
+C:\_Dev_Repos_\_Github_Repos_\Ebook_Projects\Appress.Blazor-Revealed\TestBlazor\TestBlazor.Shared\obj\Debug\netstandard2.0\TestBlazor.Shared.csproj.CoreCompileInputs.cache
+C:\_Dev_Repos_\_Github_Repos_\Ebook_Projects\Appress.Blazor-Revealed\TestBlazor\TestBlazor.Shared\obj\Debug\netstandard2.0\TestBlazor.Shared.AssemblyInfoInputs.cache
+C:\_Dev_Repos_\_Github_Repos_\Ebook_Projects\Appress.Blazor-Revealed\TestBlazor\TestBlazor.Shared\obj\Debug\netstandard2.0\TestBlazor.Shared.AssemblyInfo.cs
+C:\_Dev_Repos_\_Github_Repos_\Ebook_Projects\Appress.Blazor-Revealed\TestBlazor\TestBlazor.Shared\obj\Debug\netstandard2.0\TestBlazor.Shared.dll
+C:\_Dev_Repos_\_Github_Repos_\Ebook_Projects\Appress.Blazor-Revealed\TestBlazor\TestBlazor.Shared\obj\Debug\netstandard2.0\TestBlazor.Shared.pdb

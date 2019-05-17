@@ -1,0 +1,8 @@
+C:\_Dev_Repos_\_Github_Repos_\Ebook_Projects\Appress.Blazor-Revealed\PizzaPlace\PizzaPlace.Shared\bin\Debug\netstandard2.0\PizzaPlace.Shared.deps.json
+C:\_Dev_Repos_\_Github_Repos_\Ebook_Projects\Appress.Blazor-Revealed\PizzaPlace\PizzaPlace.Shared\bin\Debug\netstandard2.0\PizzaPlace.Shared.dll
+C:\_Dev_Repos_\_Github_Repos_\Ebook_Projects\Appress.Blazor-Revealed\PizzaPlace\PizzaPlace.Shared\bin\Debug\netstandard2.0\PizzaPlace.Shared.pdb
+C:\_Dev_Repos_\_Github_Repos_\Ebook_Projects\Appress.Blazor-Revealed\PizzaPlace\PizzaPlace.Shared\obj\Debug\netstandard2.0\PizzaPlace.Shared.csproj.CoreCompileInputs.cache
+C:\_Dev_Repos_\_Github_Repos_\Ebook_Projects\Appress.Blazor-Revealed\PizzaPlace\PizzaPlace.Shared\obj\Debug\netstandard2.0\PizzaPlace.Shared.AssemblyInfoInputs.cache
+C:\_Dev_Repos_\_Github_Repos_\Ebook_Projects\Appress.Blazor-Revealed\PizzaPlace\PizzaPlace.Shared\obj\Debug\netstandard2.0\PizzaPlace.Shared.AssemblyInfo.cs
+C:\_Dev_Repos_\_Github_Repos_\Ebook_Projects\Appress.Blazor-Revealed\PizzaPlace\PizzaPlace.Shared\obj\Debug\netstandard2.0\PizzaPlace.Shared.dll
+C:\_Dev_Repos_\_Github_Repos_\Ebook_Projects\Appress.Blazor-Revealed\PizzaPlace\PizzaPlace.Shared\obj\Debug\netstandard2.0\PizzaPlace.Shared.pdb
